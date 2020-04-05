@@ -1,8 +1,8 @@
 # ![beavernet](beaverNet.InMemoryWebApp/wwwroot/img/beaverNetLogo39px.png) beaverNet
-# InMemoryWebApp
+
+# In-Memory Identity web application
 This is an implementation of ASP.NET Core 3.1 web application with MVC architecture using Entity Framework Core in memory database for default user identity.
 NO DATABASE engine needed! The app flush data once it stops execution.
-
 
 ## Run this app
 Command Line instructions 
