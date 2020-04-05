@@ -2,7 +2,7 @@
 ![.NET format](https://github.com/JulioMelchorPinto/beaverNet.InMemoryWebApp/workflows/.NET%20format/badge.svg?branch=master)
 
 
-# ![beavernet](beaverNet.InMemoryWebApp/wwwroot/img/beaverNetLogo39px.png) beaverNet
+# ![beavernet](beaverNet.InMemoryWebApp/wwwroot/img/beaverNetLogo40px.png) beaverNet
 
 # In-Memory Identity web application
 This is an implementation of ASP.NET Core 3.1 web application with MVC architecture using Entity Framework Core in memory database for default user identity.
