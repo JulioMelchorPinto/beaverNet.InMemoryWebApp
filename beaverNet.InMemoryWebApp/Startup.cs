@@ -36,9 +36,9 @@ namespace beaverNet.InMemoryWebApp
             });
             /* services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlite(
-                    Configuration.GetConnectionString("DefaultConnection"))); */
+                    Configuration.GetConnectionString("InMemoryConnection"))); */
             services.AddDbContext<ApplicationDbContext>(options =>
-                options.UseInMemoryDatabase(databaseName: "app"));
+                options.UseInMemoryDatabase(databaseName: "in-memory-app")); 
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
