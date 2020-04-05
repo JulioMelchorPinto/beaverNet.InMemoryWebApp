@@ -1,3 +1,5 @@
+![.NET Core](https://github.com/JulioMelchorPinto/beaverNet.InMemoryWebApp/workflows/.NET%20Core/badge.svg)
+
 # ![beavernet](beaverNet.InMemoryWebApp/wwwroot/img/beaverNetLogo39px.png) beaverNet
 
 # In-Memory Identity web application
