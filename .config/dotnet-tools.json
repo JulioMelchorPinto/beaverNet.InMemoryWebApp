@@ -13,6 +13,12 @@
       "commands": [
         "dotnet-aspnet-codegenerator"
       ]
+    },
+    "dotnet-format": {
+      "version": "3.1.2",
+      "commands": [
+        "dotnet-format"
+      ]
     }
   }
 }
