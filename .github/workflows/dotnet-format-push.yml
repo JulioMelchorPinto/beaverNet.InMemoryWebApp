@@ -1,4 +1,4 @@
-name: Format check on push
+name: .NET format
 on: push
 jobs:
   dotnet-format:
@@ -15,5 +15,3 @@ jobs:
 
       - name: Run dotnet format
         uses: xt0rted/dotnet-format@v1
-        with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
