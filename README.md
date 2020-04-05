@@ -1,4 +1,6 @@
 ![.NET Core](https://github.com/JulioMelchorPinto/beaverNet.InMemoryWebApp/workflows/.NET%20Core/badge.svg?branch=master)
+![.NET format](https://github.com/JulioMelchorPinto/beaverNet.InMemoryWebApp/workflows/.NET%20format/badge.svg?branch=master)
+
 
 # ![beavernet](beaverNet.InMemoryWebApp/wwwroot/img/beaverNetLogo39px.png) beaverNet
 
