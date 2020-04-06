@@ -41,7 +41,13 @@ dotnet build --project beaverNet.InMemoryWebApp/beaverNet.InMemoryWebApp.csproj
 ````
 dotnet run --project beaverNet.InMemoryWebApp/beaverNet.InMemoryWebApp.csproj --launch-profile beaverNet.InMemoryWebApp
 ````
-8. Sponsor me:
+
+## Samples
+
+![beavernet](beaverNet.InMemoryWebApp/wwwroot/img/screenshot_A.png)
+![beavernet](beaverNet.InMemoryWebApp/wwwroot/img/screenshot_B.png)
+
+Sponsor:
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/beaverNet)]
 
