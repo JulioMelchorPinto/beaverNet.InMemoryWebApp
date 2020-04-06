@@ -13,7 +13,6 @@ namespace beaverNet.InMemoryWebApp.Areas.Identity
     {
         public void Configure(IWebHostBuilder builder)
         {
-           
         }
     }
 }
