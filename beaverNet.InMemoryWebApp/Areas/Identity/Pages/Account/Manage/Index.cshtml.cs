@@ -21,7 +21,6 @@ namespace beaverNet.InMemoryWebApp.Areas.Identity.Pages.Account.Manage
             _userManager = userManager;
             _signInManager = signInManager;
         }
-
         public string Username { get; set; }
 
         [TempData]
